@@ -1,0 +1,13 @@
+Auto Insurance Policy
+
+Coverage:
+This insurance policy covers collision damage, theft, fire damage, and weather-related incidents depending on selected coverage options.
+
+Water Damage:
+Water damage is covered only if caused by a covered peril. Flood-related damage requires separate flood insurance coverage.
+
+Exclusions:
+Fraudulent claims, intentional damage, and unreported vehicle modifications are excluded from coverage.
+
+Claims:
+All submitted claims require policy verification, deductible review, and supporting evidence documentation.
